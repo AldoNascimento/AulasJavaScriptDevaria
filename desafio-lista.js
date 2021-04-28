@@ -14,4 +14,3 @@ if (!idade >= 18){
 }
 
 console.log("Seja bem vindo!!!")
-
